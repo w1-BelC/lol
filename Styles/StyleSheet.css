@@ -1,4 +1,9 @@
+@font-face {
+    font-family: minecraft;
+    src: url(../Fonts/Minecraft.ttf);
+}
+
 body
 {
-    background-color: black;;
+    font-family: minecraft;
 }
