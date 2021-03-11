@@ -1,0 +1,48 @@
+.OOTitle
+{
+    margin-top: 12vw;
+    text-align: center;
+    width: 53vw;
+}
+
+.OOText
+{
+    margin-top: 2vw;
+    margin-left: 6vw;
+    width: 44vw;
+}
+
+#currentPage
+{
+    position: absolute;
+    width: 100px;
+    height: 2px;
+    margin-top:6.3%;
+    margin-left: 38.5%;
+    background-color: #E5C890;
+}
+
+
+#imgTop
+{
+    position: absolute; 
+    top: 12vw; 
+    left: 61vw; 
+    height: 15vw;
+}
+
+#imgBottomLeft
+{
+    position: absolute; 
+    top: 27.5vw; 
+    left: 55vw; 
+    height: 15vw;
+}
+
+#imgBottomRight
+{
+    position: absolute; 
+    top: 27.5vw; 
+    left: 75.5vw; 
+    height: 15vw;
+}
