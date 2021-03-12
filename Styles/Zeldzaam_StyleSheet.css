@@ -1,0 +1,302 @@
+#currentPage
+{
+    position: absolute;
+    width: 80px;
+    height: 2px;
+    margin-top:5%;
+    margin-left: 44%;
+    background-color: #E5C890;
+}
+
+h2
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 13%;
+    font-size: 170%;
+}
+
+table
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+}
+
+#title2
+{
+    margin-top: -26%;
+}
+
+td
+{
+    font-size: 130%;
+}
+
+input[type=radio] {
+    border: 0px;
+    width: 16px;
+    height: 16px;
+}
+
+.size
+{
+    width: 120px;
+}
+
+#SearchComputer
+{
+    position: absolute;
+    top: 56%;
+    left: 61%;
+    background-color: #FFF2CC;
+    width: 200px;
+    height: 30px;
+    margin-left: -18%;
+    border: 1px solid black;
+}
+
+#ComputerSearched
+{
+    visibility: hidden;
+    margin-top: 12%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 390px;
+    width: 201px;
+    font-size: 110%;
+    list-style-type: none;
+    text-align: center;
+    border: 2px solid black;
+}
+
+table + h2
+{
+    margin-top: 10%;
+}
+
+#specialComputer1, #specialComputer2, #specialComputer3, #specialComputer4, #specialComputer5, #specialComputer6, #specialComputer7, #specialComputer8, #specialComputer9, #specialComputer10, #specialComputer11, #specialComputer12, #specialComputer13, #specialComputer14, #specialComputer15, #specialComputer16, #specialComputer17, #specialComputer18, #specialComputer19, #specialComputer20, #specialComputer21, #specialComputer22, #specialComputer23, #specialComputer24
+{
+    position: absolute;
+    height: 390px;
+    width: 201px;
+    font-size: 110%;
+    list-style-type: none;
+    text-align: center;
+    border: 2px solid black;
+}
+
+#specialComputer1
+{
+    top: 80%;
+    left: 12%; 
+}
+
+#specialComputer2
+{
+    top: 80%;
+    left: 32%;
+}
+
+#specialComputer3
+{
+    top: 80%;
+    left: 52%;
+}
+
+#specialComputer4
+{
+    top: 80%;
+    left: 72%;
+}
+
+#specialComputer5
+{
+    top: 140%;
+    left: 12%;
+}
+
+#specialComputer6
+{
+    top: 140%;
+    left: 32%;
+}
+
+#specialComputer7
+{
+    top: 140%;
+    left: 52%;
+}
+
+#specialComputer8
+{
+    top: 140%;
+    left: 72%;
+}
+
+#specialComputer9
+{
+    top: 200%;
+    left: 12%;
+}
+
+#specialComputer10
+{
+    top: 200%;
+    left: 32%;
+}
+
+#specialComputer11
+{
+    top: 200%;
+    left: 52%;
+}
+
+#specialComputer12
+{
+    top: 200%;
+    left: 72%;
+}
+
+#specialComputer13
+{
+    top: 260%;
+    left: 12%;
+}
+
+#specialComputer14
+{
+    top: 260%;
+    left: 32%;
+}
+
+#specialComputer15
+{
+    top: 260%;
+    left: 52%;
+}
+
+#specialComputer16
+{
+    top: 260%;
+    left: 72%;
+}
+
+#specialComputer17
+{
+    top: 320%;
+    left: 12%;
+}
+
+#specialComputer18
+{
+    top: 320%;
+    left: 32%;
+}
+
+#specialComputer19
+{
+    top: 320%;
+    left: 52%;
+}
+
+#specialComputer20
+{
+    top: 320%;
+    left: 72%;
+}
+
+#specialComputer21
+{
+    top: 380%;
+    left: 12%;
+}
+
+#specialComputer22
+{
+    top: 380%;
+    left: 32%;
+}
+
+#specialComputer23
+{
+    top: 380%;
+    left: 52%;
+}
+
+#specialComputer24
+{
+    top: 380%;
+    left: 72%;
+}
+
+.titleSpecialComputer
+{
+    background-color: #FFF2CC;
+    width: 241px;
+    height: 50px;
+    margin-top: -10.5%;
+    margin-left: -20%;
+}
+
+.titleSpecialComputer > p
+{
+    padding-top: 5%;
+    font-size: 120%;    
+}
+
+.ImageSpecialComputer > img
+{
+    height: 123px;
+    width: 200px;
+    margin-top: 10%;
+    margin-left: -20%;
+}
+
+.infoSpecialComputer
+{
+    margin-left: -8%;
+}
+
+.infoSpecialComputer > p
+{
+    font-size: 75%;
+    text-align: left;
+}
+
+.moreInfoSpecialComputer
+{
+    background-color: #FFF2CC;
+    width: 200px;
+    height: 30px;
+    margin-left: -18%;
+    border: 1px solid black;
+}
+
+#goToTop
+{
+    position: absolute;
+    top: 440%;
+    left: 61.5%;
+    background-color: whitesmoke;
+    width: 200px;
+    height: 30px;
+    margin-left: -18%;
+    border: 1px solid black;
+}
+
+#goToTop a
+{
+    text-decoration: none;
+}
+
+#break
+{
+    position: absolute;
+    top: 443%;
+    left: 50%;
+    height: 100px;
+    width: 100px;
+}

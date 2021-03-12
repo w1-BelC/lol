@@ -1,10 +1,10 @@
 #currentPage
 {
     position: absolute;
-    width: 100px;
+    width: 80px;
     height: 2px;
-    margin-top:6.3%;
-    margin-left: 72%;
+    margin-top:5%;
+    margin-left: 84%;
     background-color: #E5C890;
 }
 
@@ -31,6 +31,11 @@ main
     font-weight: bold;
 }
 
+#Bericht
+{
+    resize: none;
+}
+
 td
 {
     padding: 5px;
@@ -38,18 +43,18 @@ td
 
 .links
 {
-    margin-left: 7vw;
+    margin-left: 8vw;
 }
 
 .rechts
 {
     position: fixed;
     margin-left: 1050px;
-    margin-top: -29vw;
+    margin-top: -31vw;
 }
 
 .images
 {
-    width: 64%;
-    height: 64%;
+    width: 67%;
+    height: 67%;
 }

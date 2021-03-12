@@ -1,3 +1,17 @@
+body::-webkit-scrollbar {
+    width: 1.5em;
+    background-color: whitesmoke;
+  }
+   
+  body::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  }
+   
+  body::-webkit-scrollbar-thumb {
+    background-color: #EDDDAD;
+    outline: 2px solid lightgray;
+  }
+
 body
 {
     margin: 0;
@@ -7,7 +21,8 @@ body
 
 header
 {
-    position: fixed;
+    zoom: 90%;
+    position: absolute;
     top: 0;
     width: 100%;
     height: 17vh;
@@ -25,7 +40,7 @@ header > h1
 header > div
 {
     position: absolute;
-    left: 50vw;
+    left: 54vw;
     top: 2.75vw;
 }
 
@@ -34,15 +49,16 @@ header > div > a
     border: 0.2vw solid #E5C890;
     background-color: #FFF2CC;
     color: black;
+    font-size: 90%;
     border-radius: 0.4vw;
     float: left;
     text-align: center;
-    margin-right: 3vw;
+    margin-right: 1vw;
     margin-top: -0.3vw;
-    width: 10vw;
+    width: 9vw;
     height: 3.5vw;
     text-decoration: none;
-    margin-left: 0.2vw;
+    margin-left: 0.1vw;
 }
 
 #Home :hover
