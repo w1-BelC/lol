@@ -1,0 +1,133 @@
+main
+{
+    zoom: 96%;
+}
+
+#currentPage
+{
+    position: absolute;
+    width: 80px;
+    height: 2px;
+    margin-top:5%;
+    margin-left: 4.1%;
+    background-color: #E5C890;
+}
+
+#specialComputer1, #specialComputer2, #specialComputer3, #specialComputer4, #specialComputer5, #specialComputer6, #specialComputer7, #specialComputer8
+{
+    position: absolute;
+    height: 390px;
+    width: 201px;
+    font-size: 110%;
+    list-style-type: none;
+    text-align: center;
+    border: 2px solid black;
+}
+
+#title
+{
+    position: absolute;
+    top: 20%;
+    left: 41%;
+    font-size: 200%;
+}
+
+#specialComputer1
+{
+    top: 33%;
+    left: 12%; 
+}
+
+#specialComputer2
+{
+    top: 33%;
+    left: 32%;
+}
+
+#specialComputer3
+{
+    top: 33%;
+    left: 52%;
+}
+
+#specialComputer4
+{
+    top: 33%;
+    left: 72%;
+}
+
+#specialComputer5
+{
+    top: 93%;
+    left: 12%;
+}
+
+#specialComputer6
+{
+    top: 93%;
+    left: 32%;
+}
+
+#specialComputer7
+{
+    top: 93%;
+    left: 52%;
+}
+
+#specialComputer8
+{
+    top: 93%;
+    left: 72%;
+}
+
+.titleSpecialComputer
+{
+    background-color: #FFF2CC;
+    width: 241px;
+    height: 50px;
+    margin-top: -10.5%;
+    margin-left: -20%;
+}
+
+.titleSpecialComputer > p
+{
+    padding-top: 5%;
+    font-size: 120%;    
+}
+
+.ImageSpecialComputer > img
+{
+    height: 123px;
+    width: 200px;
+    margin-top: 10%;
+    margin-left: -20%;
+}
+
+.infoSpecialComputer
+{
+    margin-left: -8%;
+}
+
+.infoSpecialComputer > p
+{
+    font-size: 75%;
+    text-align: left;
+}
+
+.moreInfoSpecialComputer
+{
+    background-color: #FFF2CC;
+    width: 200px;
+    height: 30px;
+    margin-left: -18%;
+    border: 1px solid black;
+}
+
+#break
+{
+    position: absolute;
+    top: 147%;
+    left: 50%;
+    height: 100px;
+    width: 100px;
+}
